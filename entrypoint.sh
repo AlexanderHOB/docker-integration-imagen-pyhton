@@ -1,0 +1,2 @@
+pachetl start
+/bin/bash
